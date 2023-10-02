@@ -2,4 +2,5 @@ Daftar Makanan Favorit
   1. Nasi goreng
   2. Mie instan
   3. Nasi padang
+  4. Chinese food
   
